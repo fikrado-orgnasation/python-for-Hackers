@@ -3,7 +3,7 @@
 
 import nmap
 
-scanner = nmap.
+scanner = nmap.portscanner
 
 logo = """
         / \      _-'
