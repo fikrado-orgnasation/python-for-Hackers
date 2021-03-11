@@ -7,5 +7,5 @@
 <img src="/Fikrado.jpg">
 
 # TRY A TO CREAT VERTUAL LAB TO TEST MALWARES ONLINE WITH 
-### https://replit.cokm
+### https://replit.com
 <img src="https://repl.it/public/images/dotcom_1.png">
